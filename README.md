@@ -20,9 +20,7 @@ Key Features:
 ● Interactive Components: ⚡ JavaScript enhances the interactivity of the website, offering smooth transitions, dynamic effects, and engaging user interactions.
 
 ● Clean and Structured Code: 🧰 The codebase follows best practices and adheres to industry standards, ensuring maintainability and scalability for future enhancements.
-## Demo
 
-![](https://github.com/Shrey2dew/Basic-Swarovski-Website/blob/main/Website_Result.gif)
 ## Tech Stack
 
 **1.** HTML
