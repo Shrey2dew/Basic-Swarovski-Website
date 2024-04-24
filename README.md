@@ -21,6 +21,19 @@ Key Features:
 
 ● Clean and Structured Code: 🧰 The codebase follows best practices and adheres to industry standards, ensuring maintainability and scalability for future enhancements.
 
+## 👨‍💻: Screenshots
+<div align="left">
+ 
+| Front Page | Home Page | 
+| :---         |     :---      |       
+| <img src="https://github.com/Shrey2dew/Basic-Swarovski-Website/blob/main/Output/Front.png" width="500" height="auto" />  | <img src="https://github.com/Shrey2dew/Basic-Swarovski-Website/blob/main/Output/Screenshot%202024-04-24%20110800.png" width="500" height="auto" />    
+
+| Necklace | Bracelet | 
+| :---         |     :---      | 
+ <img src="https://github.com/Shrey2dew/Basic-Swarovski-Website/blob/main/Output/Screenshot%202024-04-24%20110844.png" width="500" height="auto" />    | <img src="https://github.com/Shrey2dew/Basic-Swarovski-Website/blob/main/Output/Screenshot%202024-04-24%20110949.png" width="500" height="auto" /> 
+
+</div>
+
 ## Tech Stack
 
 **1.** HTML
