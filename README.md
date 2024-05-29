@@ -42,5 +42,7 @@ Key Features:
 
 **3.** JavaScript
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5a944b1-d6e4-4f60-b2b7-3c6530d47dca/deploy-status)](https://app.netlify.com/sites/mausum-site/deploys)
+
 
 
